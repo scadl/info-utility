@@ -1,4 +1,4 @@
-# info-utility
+# Info Utility
 Organizer-like utility with 3 mini-apps inside:
 
 - Realtime free space monitorin on hdd/ssd.
